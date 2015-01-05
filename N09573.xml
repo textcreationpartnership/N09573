@@ -116,8 +116,8 @@
    <text xml:lang="eng">
       <body>
          <div type="text">
-            <pb facs="tcp:012190_0000_0F8A377E65C87C40"/>
-            <pb facs="tcp:012190_0001_0F8A377EE7EC0438"/>
+            <pb facs="unknown:012190_0000_0F8A377E65C87C40"/>
+            <pb facs="unknown:012190_0001_0F8A377EE7EC0438"/>
             <head>PETTIE's ISLAND Land and Cash LOTTERY, To be Drawn on the said Island, in Delaware, For the Disposing of certain valuable LOTS and IMPROVE<g ref="char:EOLhyphen"/>MENTS, situate in the Northern Liberties of the City of Philadelphia, and Province of Pennsylvania.</head>
             <p>The SCHEME is as follows;
 <table>
@@ -180,7 +180,7 @@
                   </row>
                   <row>
                      <cell cols="7">
-                        <pb facs="tcp:012190_0002_0F8A377F8C6FE620"/>
+                        <pb facs="unknown:012190_0002_0F8A377F8C6FE620"/>
                         <gap reason="illegible: page cropped" extent="1 span">
                            <desc>〈…〉</desc>
                         </gap>
